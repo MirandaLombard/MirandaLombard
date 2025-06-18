@@ -11,6 +11,6 @@
 🔭 I’m currently working on a fully functional e-commerce website for one of my final year modules. 
     The languages and programs used in the platform are PHP, CSS, JavaScript, HTML, SQL, Bootstrap, JQuery, phpMyAdmin.
     
-🌱 I’m currently busy learning Python\
+🌱 I’m currently busy learning Python Programming
 
 📫 How to reach me: Mirandalombard69@gmail.com
